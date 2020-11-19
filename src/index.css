@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bordercolor{
+  border: 2px solid red;
+}
+.heigtt
+{
+  width: 140;
+  height: 140;
+}
+.home{
+  background-image: url('./Images//diary2.jpg');
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

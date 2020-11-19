@@ -1,0 +1,103 @@
+[
+    {
+        "diaryID": 1,
+        "username": "AhmedAli",
+        "diary": [
+            {   "diaryid":1,
+                "status": "public",
+                "diarytitle": "Nature",
+                "createdAt": "12/01/2020",
+                "entries": [
+                    {
+                        "id": 1,
+                        "title": "Natural Beauty",
+                        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio vero eos voluptate magnam dolore delectus amet voluptas modi. Quam, fugiat. Architecto ad nostrum provident quam assumenda eius asperiores, labore minima. ",
+                        "createdAt": "12/01/2020",
+                        "updatedAt": "13/01/2020"
+                    }
+                ]
+            
+            },
+            {   "diaryid":2,
+                "status": "private",
+                "diarytitle": "World Issues",
+                "createdAt": "12/01/2020",
+                "entries": [
+                    {
+                        "id": 1,
+                        "title": "World",
+                        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio vero eos voluptate magnam dolore delectus amet voluptas modi. Quam, fugiat. Architecto ad nostrum provident quam assumenda eius asperiores, labore minima.",
+                        "createdAt": "12/01/2020",
+                        "updatedAt": "13/01/2020"
+                    }
+                ]
+            
+            }
+        ]
+    },
+    {
+        "diaryID": 2,
+        "username": "Sufyan",
+        "diary": [
+            {   "diaryid":1,
+                "status": "public",
+                "diarytitle": "Mountains",
+                "createdAt": "12/01/2020",
+                "entries": [
+                    {
+                        "id": 1,
+                        "title": "K2 Mountain",
+                        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, saepe molestiae ducimus ad laborum placeat officiis mollitia non iste iusto. Ullam placeat deleniti enim ducimus beatae ea delectus reiciendis ratione!",
+                        "createdAt": "12/01/2020",
+                        "updatedAt": "13/01/2020"
+                    }
+                ]
+            
+            },
+            {   "diaryid":3,
+                "status": "public",
+                "diarytitle": "Forest",
+                "createdAt": "12/01/2020",
+                "entries": [
+                    {
+                        "id": 1,
+                        "title": "Amazon Forest",
+                        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio vero eos voluptate magnam dolore delectus amet voluptas modi. Quam, fugiat. Architecto ad nostrum provident quam assumenda eius asperiores, labore minima.",
+                        "createdAt": "12/01/2020",
+                        "updatedAt": "13/01/2020"
+                    }
+                ]
+            
+            },
+            {   "diaryid":2,
+                "status": "private",
+                "diarytitle": "Animals",
+                "createdAt": "12/01/2020",
+                "entries": [
+                    {
+                        "id": 1,
+                        "title": "Lions",
+                        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio vero eos voluptate magnam dolore delectus amet voluptas modi. Quam, fugiat. Architecto ad nostrum provident quam assumenda eius asperiores, labore minima.",
+                        "createdAt": "12/01/2020",
+                        "updatedAt": "13/01/2020"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Tigers",
+                        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio vero eos voluptate magnam dolore delectus amet voluptas modi. Quam, fugiat. Architecto ad nostrum provident quam assumenda eius asperiores, labore minima.",
+                        "createdAt": "12/01/2020",
+                        "updatedAt": "13/01/2020"
+                    },
+                    {
+                        "id": 3,
+                        "title": "Birds",
+                        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio vero eos voluptate magnam dolore delectus amet voluptas modi. Quam, fugiat. Architecto ad nostrum provident quam assumenda eius asperiores, labore minima.",
+                        "createdAt": "12/01/2020",
+                        "updatedAt": "13/01/2020"
+                    }
+                ]
+            
+            }
+        ]
+    }
+]

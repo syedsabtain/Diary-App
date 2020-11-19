@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ahmed Ali",
+        "username": "AhmedAli",
+        "password": "ahmed1234",
+        "email": "ahmed@gmail.com",
+        "diaryID": 1
+
+    },
+    {   "name": "Sufyan",
+        "username": "Sufyan",
+        "password": "sufyan1234",
+        "email": "sufyan@gmail.com",
+        "diaryID": 2
+
+    }
+]

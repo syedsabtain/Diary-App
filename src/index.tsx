@@ -1,12 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './Components/App/App';
 import * as serviceWorker from './serviceWorker';
-
+import {makeServer} from './Server/server'
+import './bootstrap.min.css'
+import userdata from './Store/Redux/user'
+import {Provider} from 'react-redux'
+import './Components/styles/all.min.css'
+makeServer();
 ReactDOM.render(
   <React.StrictMode>
+    <Provider store={userdata}>
     <App />
+    </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 );
